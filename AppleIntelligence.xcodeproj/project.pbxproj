@@ -1,0 +1,50 @@
+// !$*UTF8*$!
+{
+  archiveVersion = 1;
+  classes = {
+  };
+  objectVersion = 55;
+  objects = {
+
+    /* Project object */
+    1D6058900D05DD3D006BFB54 /* Project object */ = {
+      isa = PBXProject;
+      attributes = {
+        LastUpgradeCheck = 1300;
+        ORGANIZATIONNAME = "YourName";
+      };
+      buildConfigurationList = 1D6058910D05DD3E006BFB54 /* Build configuration list */;
+      compatibilityVersion = "Xcode 12.0";
+      developmentRegion = en;
+      hasScannedForEncodings = 0;
+      knownRegions = (
+        en,
+        Base,
+      );
+      mainGroup = 1D60588D0D05DD3D006BFB54;
+      productRefGroup = 1D60588E0D05DD3D006BFB54;
+      projectDirPath = "";
+      projectRoot = "";
+      targets = (
+        1D60588F0D05DD3D006BFB54 /* AppleIntelligence */,
+      );
+    };
+
+    /* Target */
+    1D60588F0D05DD3D006BFB54 /* AppleIntelligence */ = {
+      isa = PBXNativeTarget;
+      buildConfigurationList = 1D6058920D05DD3E006BFB54;
+      buildPhases = (
+      );
+      buildRules = (
+      );
+      dependencies = (
+      );
+      name = AppleIntelligence;
+      productName = AppleIntelligence;
+      productType = "com.apple.product-type.application";
+    };
+
+  };
+  rootObject = 1D6058900D05DD3D006BFB54 /* Project object */;
+}
